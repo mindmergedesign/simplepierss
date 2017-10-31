@@ -1,0 +1,5 @@
+name: SimplePieRss
+version: "1.0"
+description: RSS and Atom feed parsing addon for Statamic 2
+developer: Juan Giraldo
+developer_url: http://juangiraldo.com

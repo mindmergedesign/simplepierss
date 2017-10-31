@@ -1,0 +1,6 @@
+{
+    "name": "juan-giraldo/simplepierss",
+    "require": {
+       "simplepie/simplepie" : "1.5"
+    }
+}
