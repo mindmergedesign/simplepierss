@@ -6,10 +6,9 @@ This addon is based on the [Statamic SimplePie Plugin](https://github.com/statam
 The SimplePieRSS addon is a fast and easy-to-use RSS and Atom feed parser. 
 
 ## Installing
-1. Download the zip file (or clone via git) and unzip it or clone the repo into `site/addons/` folder.
-2. Ensure the folder name is `SimplePieRss` (Github timestamps the download folder).
-3. Run `php please update:addons`
-4. Enjoy.
+1. Download the zip file (or clone via git); unzip it and copy the SimplePieRss folder to `site/addons/`folder.
+2. Run `php please update:addons` from the terminal
+3. Enjoy.
 
 ## Example Tag
     
